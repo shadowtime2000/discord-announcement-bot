@@ -1,0 +1,6 @@
+{
+  "token": "put bot token here",
+  "announcer-role": "put announcer role here",
+  "webhookID": "put webhook id here",
+  "webhookToken": "put webhook token here"
+}
